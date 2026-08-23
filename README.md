@@ -1,4 +1,4 @@
-# Bitcoin Blockchain Transaction Dataset for Wallet Address Profiling and Behavioral Analysis (Parquet Format)
+# Bitcoin Blockchain Transaction Dataset for Wallet Address Profiling and Behavioral Analysis (Parquet + CSV Format)
 
 [![DOI](https://img.shields.io/badge/DOI-10.21227%2Fbxmt--mn56-blue?style=flat-square)](https://doi.org/10.21227/bxmt-mn56)
 [![IEEE Dataport](https://img.shields.io/badge/IEEE_Dataport-Standard_Dataset-00629B?style=flat-square&logo=ieee)](https://ieee-dataport.org/documents/bitcoin-blockchain-transaction-dataset-wallet-address-profiling-and-behavioral-analysis)
